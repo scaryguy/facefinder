@@ -1,6 +1,6 @@
 {
 	"name": "facefinder",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "An experimental module using OpenCV node.js bindings to detect faces in an image.",
 	"url": "http://github.com/scaryguy/facefinder",
 	"repository": {

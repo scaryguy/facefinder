@@ -5,10 +5,13 @@ An experimental module using OpenCV node.js bindings to detect faces in an image
 - OpenCV
 
 # Installation
-npm install facefinder
+```
+$ npm install facefinder
+```
 
 # Usage
 
 ```javascript
-var FaceFinder(ABSOLUTE_PATH_TO_THE_SOURCE_IMAGE, OUTPUT_DIRECTORY_PATH)
+var FaceFinder = require('facefinder')
+FaceFinder(ABSOLUTE_PATH_TO_THE_SOURCE_IMAGE, OUTPUT_DIRECTORY_PATH)
 ```
