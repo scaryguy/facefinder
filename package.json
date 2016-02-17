@@ -1,0 +1,19 @@
+{
+  "name": "facefinder",
+  "version": "1.0.0",
+  "description": "Face finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soner Can <soner2@gmail.com> (http://www.sonercan.com)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "*",
+    "opencv": "^5.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  }
+}
