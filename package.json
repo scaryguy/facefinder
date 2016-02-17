@@ -1,19 +1,20 @@
 {
-  "name": "facefinder",
-  "version": "1.0.0",
-  "description": "Face finder",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Soner Can <soner2@gmail.com> (http://www.sonercan.com)",
-  "license": "ISC",
-  "dependencies": {
-    "bluebird": "*",
-    "opencv": "^5.0.0"
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "chai": "*"
-  }
+	"name": "facefinder",
+	"version": "1.0.0",
+	"description": "An experimental module using OpenCV node.js bindings to detect faces in an image.",
+	"url": "http://github.com/scaryguy/facefinder",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Soner Can <soner2@gmail.com> (http://www.sonercan.com)",
+	"license": "ISC",
+	"dependencies": {
+		"bluebird": "*",
+		"opencv": "^5.0.0"
+	},
+	"devDependencies": {
+		"mocha": "*",
+		"chai": "*"
+	}
 }
